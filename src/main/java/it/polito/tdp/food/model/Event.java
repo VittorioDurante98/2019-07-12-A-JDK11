@@ -47,7 +47,7 @@ public class Event implements Comparable<Event>{
 
 /*
 0[ F1 ] 1[ F2 ] 2[ F3 ]
-		
+		nb
 		FINE_PREPARAZIONE( F2, stazione 1 )   T
 		INIZIO_PREPARAZIONE(F2 cibo concluso, stazione 1)  T
 			scelgo il prox cibo
